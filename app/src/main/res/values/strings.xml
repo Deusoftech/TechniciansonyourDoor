@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Technicians on your Door</string>
+
+
+    <!--bottom nav menu -->
+    <string name="home">Home</string>
+    <string name="help">Contact</string>
+    <string name="about">About</string>
+
+
+</resources>
